@@ -1,4 +1,4 @@
-(defproject com.relaynetwork/kinematic "1.5.1-SNAPSHOT"
+(defproject com.relaynetwork/kinematic "1.5.0-SNAPSHOT"
   :description          "Dynamic Web Development with Clojure"
   :local-repo-classpath true
   :plugins [[lein-swank "1.4.5"]]
